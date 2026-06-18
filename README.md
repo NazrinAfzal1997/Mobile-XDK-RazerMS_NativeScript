@@ -1,3 +1,11 @@
+<!--
+ # license: Copyright © 2011-2016 MOLPay Sdn Bhd. All Rights Reserved. 
+ -->
+
+# [Mobile XDK] – RazerMS NativeScript
+
+<img src="https://user-images.githubusercontent.com/38641542/74424311-a9d64000-4e8c-11ea-8d80-d811cfe66972.jpg">
+
 # 🚚 Repository Moved
 
 This repository has been moved to a new location and is no longer actively maintained.
@@ -11,15 +19,6 @@ All future updates, bug fixes, and feature enhancements will be published in the
 Thank you for your support.
 
 ---
-
-<!--
- # license: Copyright © 2011-2016 MOLPay Sdn Bhd. All Rights Reserved. 
- -->
-
-# [Mobile XDK] – RazerMS NativeScript
-
-<img src="https://user-images.githubusercontent.com/38641542/74424311-a9d64000-4e8c-11ea-8d80-d811cfe66972.jpg">
-
 
 This is the functional Razer Merchant Services NativeScript payment module that is ready to be implemented into any NativeScript project npm install module. An example application project (MOLPayXDKExample) is provided for Razer Merchant Services XDK framework integration reference.
 
@@ -61,3 +60,4 @@ Channel/Partner Enquiry : channel-sa@razer.com<br>
 Media Contact : media-sa@razer.com<br>
 R&D and Tech-related Suggestion : technical-sa@razer.com<br>
 Abuse Reporting : abuse-sa@razer.com
+
